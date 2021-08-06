@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @joseph-wilson
 - 👀  I’m interested in Web development, 
-- 🌱  I’m currently learning Git, JS -> React
+- 🌱  I’m currently learning JS -> React, git
 - 💞️  I’m looking to collaborate on ...
 - 📫  How to reach me <a href="https://twitter.com/J0SEPHWILS0N">@J0SEPHWILS0N</a>
 
